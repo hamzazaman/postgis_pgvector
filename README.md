@@ -2,12 +2,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[![Push to Docker Hub](https://github.com/joshuasundance-swca/postgis_pgvector/actions/workflows/docker-hub.yml/badge.svg)](https://github.com/joshuasundance-swca/postgis_pgvector/actions/workflows/docker-hub.yml)
-[![postgis_pgvector on Docker Hub](https://img.shields.io/docker/v/joshuasundance/postgis_pgvector?label=postgis_pgvector&logo=docker)](https://hub.docker.com/r/joshuasundance/postgis_pgvector)
-[![Docker Image Size (tag)](https://img.shields.io/docker/image-size/joshuasundance/postgis_pgvector/latest)](https://hub.docker.com/r/joshuasundance/postgis_pgvector)
+[![Push to Docker Hub](https://github.com/hamzazaman/postgis_pgvector/actions/workflows/docker-hub.yml/badge.svg)](https://github.com/hamzazaman/postgis_pgvector/actions/workflows/docker-hub.yml)
+[![postgis_pgvector on Docker Hub](https://img.shields.io/docker/v/hamzablumen/postgis_pgvector?label=postgis_pgvector&logo=docker)](https://hub.docker.com/r/hamzablumen/postgis_pgvector)
+[![Docker Image Size (tag)](https://img.shields.io/docker/image-size/hamzablumen/postgis_pgvector/latest)](https://hub.docker.com/r/hamzablumen/postgis_pgvector)
 
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
-![Known Vulnerabilities](https://snyk.io/test/github/joshuasundance-swca/postgis_pgvector/badge.svg)
 
 
 🤖 This `README` was written by GPT-4. 🤖
